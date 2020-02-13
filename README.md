@@ -10,5 +10,4 @@ Than try to solving in a week untill friday.
 
 
 [3nd week of Feb](https://www.hackerrank.com/challenges/handshake/problem) (Easy)
-
 [3nd week of Feb](https://www.hackerrank.com/challenges/encryption/problem) (Medium)
